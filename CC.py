@@ -32,16 +32,16 @@ compileas = ["GHfjfgvj", #mips
              "FDFDHFC", #m68k
              "FTUdftui"] #sparc
 
-getarch = ['http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-mips.tar.bz2',
-'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-mipsel.tar.bz2',
-'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-sh4.tar.bz2',
-'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-x86_64.tar.bz2',
+getarch = ['http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-mips.tar.bz2',
+'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-mipsel.tar.bz2',
+'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-sh4.tar.bz2',
+'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-x86_64.tar.bz2',
 'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-armv6l.tar.bz2',
 'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-i686.tar.bz2',
-'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-powerpc.tar.bz2',
+'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-powerpc.tar.bz2',
 'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-i586.tar.bz2',
 'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-m68k.tar.bz2',
-'http://uclibc.org/downloads/binaries/0.9.30.1/cross-compiler-sparc.tar.bz2']
+'http://distro.ibiblio.org/slitaz/sources/packages/c/cross-compiler-x86_64.tar.bz2']
 
 ccs = ["cross-compiler-mips",
        "cross-compiler-mipsel",
